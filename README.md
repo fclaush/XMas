@@ -67,7 +67,7 @@ pip install -r requirements.txt
 ## 🎨 Example Output
 The script generates a visualization like this:
 
-![MERRY X-MAS Visualization Example](https://via.placeholder.com/600x400?text=Insert+Image+Here)
+![MERRY X-MAS Visualization Example](img.png)
 
 ---
 
